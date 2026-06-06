@@ -1,0 +1,4 @@
+timestamp,user,event
+2026-06-05,john,login
+2026-06-05,sarah,failed_login
+2026-06-05,john,file_download

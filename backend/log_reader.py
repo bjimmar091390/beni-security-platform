@@ -1,0 +1,1 @@
+print("BENI Log Reader Initialized")
